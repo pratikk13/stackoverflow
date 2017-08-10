@@ -1,5 +1,8 @@
 *.class
 *.log
+<<<<<<< HEAD
 src/main/resources/
 target/
 .idea
+=======
+>>>>>>> ddac0905c58677a19abc5bb6b84876b1838c4767
